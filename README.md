@@ -1,10 +1,14 @@
-# Favorite Holiday 
+# Drag and Drop
 
-### Create a webpage that describes your favorite holiday destination. The webpage should include the following elements:
+### Create a webpage that describes the drag and drop functionality. The webpage should include the following elements:
 
-- A heading (h1) with the name of the holiday destination
-- A paragraph that provides a brief overview of the destination
-- A line break between the heading and the paragraph
-- An ordered list that lists the top 5 attractions in the destination
-- An unordered list that lists the must-try foods in the destination
-- Text within the ordered and unordered lists should be bold (strong or b) and/or italicized (em or i) to emphasize important information.
+- A heading (h1) with the content "Drag n Drop"
+- A div with `class=lists` that describe all the list. Each list has a `class=list`. 
+- Initially list 1 contains 3 elements with class `.list-item`
+- A user should be able to drag and drop list-item from one list to another.
+
+
+** The webpage should look like this**
+
+![image](https://user-images.githubusercontent.com/78348500/218762225-c8b6d0cf-86f8-44d4-a428-5d8d9b732306.png)
+
