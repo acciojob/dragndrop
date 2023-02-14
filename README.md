@@ -8,7 +8,7 @@
 - A user should be able to drag and drop list-item from one list to another.
 
 
-** The webpage should look like this**
+**The webpage should look like this**
 
 ![image](https://user-images.githubusercontent.com/78348500/218762225-c8b6d0cf-86f8-44d4-a428-5d8d9b732306.png)
 
